@@ -1,0 +1,29 @@
+Welcome To The Gypsy Crusader Nuker
+
+This was made racist only u can edit it anyway u want but this is purely racist
+
+How to use the bot 
+
+paste your own bot token in secrets secrets = TOKEN (bot token) 
+if u don't have one u can make one Here 
+
+https://discord.com/developers/docs/game-sdk/applications 
+make sure to turn all intents on except the 2FA one once u do all that
+
+invite your bot to the server u want to nuke U MUST HAVE PERMS AKA ADMIN ETC
+
+it is best to do nukings when the ppl who can't stop it aren't on 
+once u have it in your own server
+
+after u invite it u wanna do !help or just go right ahead and do !nuke make sure the bot has admin to do anything 
+
+here is an example of how to use the commands https://cdn.discordapp.com/attachments/1064930483353427978/1070963283709935646/lv_0_20230202235548.mp4
+
+now the rules command isn't working rn but here is an example of the rules command I made off a different app
+
+https://cdn.discordapp.com/attachments/1064930483353427978/1070998261567066162/Screenshot_20230203_032408.jpg
+
+this isn't fully done I will eventually add the ability to ban everyone when I figure that out 
+
+if the bot isn't working add my discord baal#6839
+
